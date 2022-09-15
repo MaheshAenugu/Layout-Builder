@@ -1,0 +1,13 @@
+.footer-container {
+  background-color: #cbd5e1;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #64748b;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'roboto';
+}
